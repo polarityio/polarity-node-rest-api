@@ -1,0 +1,16 @@
+{
+  "main": "./polarity.js",
+  "name": "PolarityConnector",
+  "version": "0.0.1-beta",
+  "private": true,
+  "dependencies": {
+    "async": "^3.2.0",
+    "request": "^2.88.2",
+    "winston": "^3.3.3",
+    "polarity-validator": "git+ssh://git@bitbucket.org:breachintel/polarity-validator.git#0.1.4"
+  },
+  "devDependencies": {
+    "mocha": "^6.1.4",
+    "chai": "^4.2.0"
+  }
+}
