@@ -1,5 +1,5 @@
 {
-  "main": "./polarity.js",
+  "main": "./lib/polarity.js",
   "name": "PolarityConnector",
   "version": "0.0.1-beta",
   "private": true,
