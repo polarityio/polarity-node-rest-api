@@ -1,6 +1,6 @@
 {
   "main": "./lib/polarity.js",
-  "name": "PolarityConnector",
+  "name": "polarity-node-rest-api",
   "version": "0.0.1-beta",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "polarity-validator": "git+ssh://git@bitbucket.org:breachintel/polarity-validator.git#0.1.4"
   },
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^8.1.3",
     "chai": "^4.2.0"
   }
 }
