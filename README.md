@@ -52,7 +52,7 @@ The following connection options are supported:
 
 Example:
 
-```
+```javascript
 polarity.connect({
   host: 'https://your-polarity-server',
   username: 'username',
