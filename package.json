@@ -1,13 +1,13 @@
 {
   "main": "./lib/polarity.js",
   "name": "polarity-node-rest-api",
-  "version": "0.0.18-beta",
+  "version": "0.0.19-beta",
   "private": true,
   "dependencies": {
     "async": "^3.2.4",
-    "postman-request": "^2.88.1-postman.32",
+    "postman-request": "^2.88.1-postman.33",
     "winston": "^3.8.2",
-    "ip-address": "^8.1.0",
+    "ip-address": "^9.0.5",
     "inflected": "^2.1.0"
   },
   "devDependencies": {
