@@ -4,7 +4,7 @@
   "version": "0.0.21-beta",
   "private": true,
   "dependencies": {
-    "async": "^3.2.4",
+    "async": "^3.2.5",
     "postman-request": "^2.88.1-postman.33",
     "winston": "^3.8.2",
     "ip-address": "^9.0.5",
