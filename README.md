@@ -12,7 +12,7 @@ In your package.json you can include this library directly from GitHub using the
 
 ```json
 "dependencies": {
-  "polarity-node-rest-api": "polarityio/polarity-node-rest-api"
+  "polarity-node-rest-api": "polarityio/polarity-node-rest-api#v5"
 }
 ```
 
